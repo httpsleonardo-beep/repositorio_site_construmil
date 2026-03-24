@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@construmil.com.br
+      name: Administrador
+      password: $2b$12$sCO/TOTb4fjoiuId4i3G0epjusXwqlOo0DWw6qlmpWAQX9yTRvW2q
+    leonardo:
+      email: leonardo@construmil.com.br
+      name: Leonardo Galdino
+      password: $2b$12$sCO/TOTb4fjoiuId4i3G0epjusXwqlOo0DWw6qlmpWAQX9yTRvW2q
+
+cookie:
+  expiry_days: 30
+  key: construmil_scripts_repo_secret_key
+  name: construmil_auth_cookie
